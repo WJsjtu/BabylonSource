@@ -1,0 +1,24 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noResolve": true,
+    "target": "es5",
+    "declaration": true,
+    "experimentalDecorators": true,
+    "isolatedModules": false,
+    "sourceMap": true,
+    "types": [],
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "skipLibCheck": true,
+    "lib": [
+        "dom",
+        "es2015.promise",
+        "es5"
+    ]
+  }
+}
